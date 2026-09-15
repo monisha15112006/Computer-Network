@@ -1,16 +1,4 @@
-Muthu Lekshmi B
-	
-3:16 PM (50 minutes ago)
-	
-	
-to me
 
-
----------- Forwarded message ---------
-From: Jeyasrilakshmi M <muthurajkanisha_bcs28@mepcoeng.ac.in>
-Date: Wed, Sep 9, 2026 at 3:15 PM
-Subject:
-To: <cbalacbala_bcs28@mepcoeng.ac.in>
 
 
 #include <stdio.h>
